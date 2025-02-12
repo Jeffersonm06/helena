@@ -1,0 +1,16 @@
+weasyprint
+PyPDF2
+pdf2image
+pytesseract
+fpdf
+werkzeug
+pillow
+pathlib
+datetime
+scikit-learn
+sentence-transformers
+flask
+flask-cors
+yt-dlp
+speechrecognition
+pydub

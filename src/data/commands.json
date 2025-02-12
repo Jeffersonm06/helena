@@ -1,0 +1,52 @@
+{
+    "commands":{
+        "baixar musica": [
+            "baixe a musica",
+            "baixe a música",
+            "baixar musica",
+            "baixar música",
+            "baixar a musica",
+            "baixar a música",
+            "baixa pra mim a musica"
+        ],
+        "baixar ttk":[
+            "baixe o video do tiktok",
+            "baixa um video do tiktok pra mim",
+            "baixe do tiktok o video",
+            "baixe do tiktok"
+        ],
+        "email": [
+            "gostaria de enviar um email",
+            "poderia enviar um email por mim?",
+            "poderia enviar um email pra mim?",
+            "pode enviar um email por mim?",
+            "envie um email",
+            "por favor, envie um email",
+            "envie um email por favor",
+            "envie um email por mim"
+        ],
+        "html_pdf":[
+            "trasforma um arquivo html em pdf",
+            "cria um pdf com um html",
+            "cria um pdf com uma pagina html",
+            "converter html pra pdf",
+            "html pra pdf",
+            "converta esse html pra pdf"
+        ],
+        "merge_pdf":[
+            "mescla uns pdf pra mim",
+            "junta uns pdf pra mim",
+            "junta uns pdf",
+            "mesclar pdf",
+            "juntar pdf"
+        ],
+        "text_pdf":[
+            "texto imagem",
+            "pegue o texto de uma imagem",
+            "texto pdf",
+            "vê o texto de um pdf pra mim",
+            "verifica o texto de um pdf",
+            "reconhe um texto de pdf pra mim"
+        ]
+    }
+}

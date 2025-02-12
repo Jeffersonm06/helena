@@ -1,0 +1,94 @@
+{
+    "feelings": {
+        "malaise": {
+            "examples": [
+                "Não to muito bem",
+                "Não me sinto bem",
+                "Me sinto mal",
+                "To indisposto",
+                "Não estou legal"
+            ]
+        },
+        "sadness": {
+            "examples": [
+                "Estou triste",
+                "To chateado",
+                "Me chateou",
+                "Perdi a vontade",
+                "Nada dá certo"
+            ]
+        },
+        "happiness": {
+            "examples": [
+                "Estou feliz",
+                "To contente",
+                "Que alegria",
+                "Hoje tá bom",
+                "Isso me animou"
+            ]
+        },
+        "anger": {
+            "examples": [
+                "Estou bravo",
+                "Que raiva",
+                "Isso me irrita",
+                "Não aguento mais",
+                "To estressado"
+            ]
+        },
+        "fear": {
+            "examples": [
+                "Estou com medo",
+                "Isso me assusta",
+                "To nervoso",
+                "Sinto um aperto no peito",
+                "Não sei o que fazer"
+            ]
+        },
+        "surprise": {
+            "examples": [
+                "Que surpresa",
+                "Isso é inesperado",
+                "Uau, não esperava",
+                "Fiquei chocado",
+                "Caramba, que coisa"
+            ]
+        },
+        "love": {
+            "examples": [
+                "Eu te amo",
+                "Gosto muito de você",
+                "Que carinho",
+                "Me sinto amado",
+                "Isso me faz bem"
+            ]
+        },
+        "loneliness": {
+            "examples": [
+                "Me sinto sozinho",
+                "Ninguém me entende",
+                "Estou isolado",
+                "Queria ter alguém",
+                "To carente"
+            ]
+        },
+        "anxiety": {
+            "examples": [
+                "Estou ansioso",
+                "Isso me deixa tenso",
+                "Não consigo relaxar",
+                "To inquieto",
+                "Não paro de pensar nisso"
+            ]
+        },
+        "confusion": {
+            "examples": [
+                "Não sei o que pensar",
+                "Estou confuso",
+                "Isso me deixa perdido",
+                "Não consigo entender",
+                "Estou sem rumo"
+            ]
+        }
+    }
+}

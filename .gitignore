@@ -1,0 +1,42 @@
+# Ambientes virtuais Python
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+.env/
+env/
+venv/
+.venv/
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração local
+.env
+.env.local
+
+# IDEs e editores
+.vscode/
+.idea/
+
+# Dependências e builds
+node_modules/
+dist/
+build/
+*.egg-info/
+
+# Logs e caches
+*.log
+*.cache
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/

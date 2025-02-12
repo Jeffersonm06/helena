@@ -1,0 +1,485 @@
+[
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Fala paizão",
+        "intent": "greeting",
+        "timestamp": "2025-01-06T19:07:19.806194"
+    },
+    {
+        "user": "Wellington",
+        "text": "me conta uma piada",
+        "response": "O que a vaca disse para o boi? Te vejo mais tarde!",
+        "intent": "joke",
+        "timestamp": "2025-01-06T19:07:44.802490"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi!",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-06T20:37:44.267352"
+    },
+    {
+        "user": "Wellington",
+        "text": "tudo bom?",
+        "response": "Tudo bem, #",
+        "intent": "greeting -> informal_with_well_being",
+        "timestamp": "2025-01-06T20:37:49.806703"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá tudo bem?",
+        "response": "Belezinha patrão",
+        "intent": "greeting -> informal_with_well_being",
+        "timestamp": "2025-01-06T20:43:01.011885"
+    },
+    {
+        "user": "Wellington",
+        "text": "vlw",
+        "response": "Vlw, pae",
+        "intent": "farewell -> informal",
+        "timestamp": "2025-01-06T20:43:10.595626"
+    },
+    {
+        "user": "Wellington",
+        "text": "sar",
+        "response": "Desculpe, não entendi o que você quis dizer.",
+        "intent": null,
+        "timestamp": "2025-01-06T20:43:16.732327"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Olá!",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-06T20:50:46.761690"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Olá!",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-06T20:55:24.068864"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Oi!",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-06T20:57:40.618366"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Olá, Wellington.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-06T20:59:41.551410"
+    },
+    {
+        "user": "Wellington",
+        "text": "tudo bom?",
+        "response": "Tudo blz",
+        "intent": "greeting -> informal_with_well_being",
+        "timestamp": "2025-01-06T20:59:48.946071"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Olá, Wellington.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-06T21:19:09.005090"
+    },
+    {
+        "user": "Wellington",
+        "text": "tudo bem?",
+        "response": "Belezinha patrão",
+        "intent": "greeting -> informal_with_well_being",
+        "timestamp": "2025-01-06T21:19:15.819644"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Oi, Wellington.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T00:16:26.199292"
+    },
+    {
+        "user": "Wellington",
+        "text": "baixe do ttk https://www.tiktok.com/@robsonotum/video/7455411611038256389?is_from_webapp=1&sender_device=pc",
+        "response": "Desculpe, não entendi o que você quis dizer.",
+        "intent": null,
+        "timestamp": "2025-01-07T12:05:50.987407"
+    },
+    {
+        "user": "Wellington",
+        "text": "oi",
+        "response": "Oi, Wellington.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T14:51:31.162831"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Usuário: olá\nIntenção: greeting -> formal\nResponda de forma educada e informativa com base nos exemplos abaixo:\nExemplo: Olá\nExemplo: Olá, Helena\nExemplo: Oi\nExemplo: Oi, Helena\nElimo, Maria\nFernando de la Fuego, Elia\nGiovanni de l'Espresso, Alia, María\nHélène de de L'Aquila, Lévio, Márquez, Pérez, and Párez.\nOri, José, Juan, Miguel, Luis, Carlos, Jose, Manuel, Pedro, Antonio, Javier, Rafael, Jorge, Ricardo, Fernando, Sergio, Alberto, Eduardo, Julio, Daniel, Enrique, Roberto, Victor, Marco, Mario, Michael, Pablo, Rodrigo, Diego, Francisco, Jo",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T15:44:29.808841"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Usuário: ola\nIntenção: greeting -> formal\nPor favor, responda de forma educada e informativa:\nExemplos de respostas anteriores:\n- Olá\n- Olá, Helena\n- Oi\n- Oi, Helena\n\nResponda com base nesses exemplos, de maneira educada.\nOi de com formo de informa, com oi com com deforma información de de ouesto, o oo oos com,\nEu esta com informar de euesta, e uesta o uesta.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T15:46:35.552034"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "- Oi, Helena\n\nI am a woman. I am not a man.\nMy name is Helena. My name was Helena, and I was born in the village of Ojibwe. It was a village that was inhabited by a small group of people. The village was called Oka, but it was not known to the people of the town. There was no one to talk to. They were not allowed to speak to anyone. No one was allowed in. Nobody was permitted to visit. Everyone was forbidden to go to school. People were allowed only to eat. All the children were kept in a room. Every child was kept inside a house. Only one child had a place to sleep. One child slept in one",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T15:48:08.576133"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "- Oi, Wellington.\n\nThe first time I saw a new character in the series, I was so excited to see him. I had never seen him before. He was a very good character, and I thought he was going to be a great character. But I didn't see the character until I read the first book. So I just thought, 'Oh, this is a character that I really like. This is the best character I've ever seen.'\nI was really excited about the characters. They were so different. It was like, \"Oh my God, that's the coolest character ever.\"\nAnd I think that was the most exciting character of the show. And I'm really glad that he's been here.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T15:48:53.514986"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "- Oi, Wellington.\n\nThe first time I saw a new character in the series, I was so excited to see him. I had never seen him before. He was a very good character, and I thought he was going to be a great character. But I didn't see the character until I read the first book. So I just thought, 'Oh, this is a character that I really like. This is the best character I've ever seen.'\nI was really excited about the characters. They were so different. It was like, \"Oh my God, that's the coolest character ever.\"\nAnd I think that was the most exciting character of the show. And I'm really glad that he's been here.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T15:50:13.560332"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi, Wellington.\n\nThe first time I saw this, I was so excited to see it. I'm so happy to be able to share it with you.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T15:51:26.472294"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi, Wellington.\n\nThe first time I saw this, I was so excited to see it. I'm so happy to be able to share it with you.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T16:04:51.490475"
+    },
+    {
+        "user": "Wellington",
+        "text": "que?",
+        "response": "@\nThe New York Times reported on Wednesday that the FBI has been investigating the death of a man who was shot and killed by a police officer in a shooting at a New Jersey nightclub.\n\n\"The FBI is investigating a death in the shooting of an unarmed man in New Hampshire on Tuesday night,\" the Times said. \"The investigation is ongoing.\"\nA spokesman for the New England Police Department said the investigation was ongoing.",
+        "intent": "ask -> what",
+        "timestamp": "2025-01-07T16:05:02.242544"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi, Wellington.\n\nThe first time I saw this, I was so excited to see it. I'm so happy to be able to share it with you.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T16:06:48.905266"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi, Wellington.\n\nThe first time I saw this, I was so excited to see it. I'm so happy to be able to share it with you.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T16:09:41.661482"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi, Wellington.\n\nThe first time I saw this, I was so excited to see it. I'm so happy to be able to share it with you.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T16:11:00.416621"
+    },
+    {
+        "user": "Wellington",
+        "text": "que",
+        "response": "@\nThe New York Times reported on Wednesday that the FBI has been investigating the death of a man who was shot and killed by a police officer in a shooting at a New Jersey nightclub.\n\n\"The FBI is investigating a death in the shooting of an unarmed man in New Hampshire on Tuesday night,\" the Times said. \"The investigation is ongoing.\"\nA spokesman for the New England Police Department said the investigation was ongoing.",
+        "intent": "ask -> what",
+        "timestamp": "2025-01-07T16:11:56.197293"
+    },
+    {
+        "user": "Wellington",
+        "text": "oa",
+        "response": "Oi, Wellington.\n\nThe first time I saw this, I was so excited to see it. I'm so happy to be able to share it with you.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T16:13:36.218841"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi, Wellington.\n\nThe first time I saw this, I was so excited to see it. I'm so happy to be able to share it with you.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T16:14:40.337026"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi, Wellington.\n\nThe first time I saw this, I was so excited to see it. I'm so happy to be able to share it with you.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T16:17:39.341774"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi, Wellington.\n\nThe first time I saw this, I was so excited to see it. I'm so happy to be able to share it with you.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T16:19:59.822448"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi, Wellington.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnd that is the best thing, for once again, I believe you know what I mean, and I can tell you that it‍s not my intent, nor indeed my intent.\nAnd no doubt, my intention is, in fact, completely wrong.\nOh lord, I thought that I couldn't do this. Then again, I knew that I was right.\nBut for just a short moment, I thought that I was wrong.\nAnd once again, I wondered, with even the slightest hint of doubt, why this was happening?\nAnd I asked myself,\nand it wasn't my intention.\nAnd as long",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:21:39.491435"
+    },
+    {
+        "user": "Wellington",
+        "text": "oi",
+        "response": "Oi, Wellington.\n\n\n\n\nThe New York Times’ is a world famous and prestigious paper of art, but is the focus of international attention and attention from more than 2,500 journalists.\n“\n\n“\nThe “Newsweek’ is a global paper of journalism with over 200 international news organizations including editors and journalists with a budget of $3.5 billion. In addition to leading international papers, it has also been called ‡New York Times― and“World Newspaper Association―.“\nThis is based on an article in The New Yorker published in October of 2012. The article is titled “Easily the Most Visited Reporter in the World And the",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:22:43.727426"
+    },
+    {
+        "user": "Wellington",
+        "text": "oi",
+        "response": "Olá, Wellington.3 or Wellington.4 (2nd-worst) as voted in all voting on October 1st.\n\nThis vote was actually voted by the Electoral College's electors and made by the Electoral Commissions, according to the Electoral Commission's own reports. If you'd like to vote in Canada, please use below link (or contact the Electoral Commission's email address), which may contain information that requires special permission from the Electoral Commission.\nPlease note the Electoral Commission has not reported how many Canada electors are on the number of votes Canadians in 2014 per election. As of 2016 there were 17 electoral votes cast before that day, but after that there were 18.\nThis voting system uses 2,500 votes for each voting person",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:26:58.589177"
+    },
+    {
+        "user": "Wellington",
+        "text": "oi",
+        "response": "Olá! and I said something so rude... but a couple seconds later he says, ‏How come you were getting away from your friend and all those people that are coming in? When he's at work, he's going to be there",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:28:00.455503"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Resposta exemplo: Olá, Wellington.\nContinuar a resposta: This is where the most important things to remember is in choosing which parts of your post you’re actually building.\nSo what are your plans right now?\nI think it’s quite simple to do with your post as you move forwards towards the next step and start to consider whether we can make something better for you or not (or if you are unsure about who we would like to build). For me it´s simple as doing so instead of having to keep focusing on your goal.\nWhen I first started writing posts, I knew it did not have to be more simple, but the concept was in principle very simple:",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:29:37.049620"
+    },
+    {
+        "user": "Wellington",
+        "text": "oi",
+        "response": "Oi!?!!",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:37:11.426385"
+    },
+    {
+        "user": "Wellington",
+        "text": "Olá",
+        "response": "Olá, Wellington.3-h-",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:37:21.207468"
+    },
+    {
+        "user": "Wellington",
+        "text": "Tudo bem?",
+        "response": "Tudo blzk",
+        "intent": "greeting -> informal_with_well_being",
+        "timestamp": "2025-01-07T17:37:39.538453"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Oi, Wellington.100 | Wellington.250 | Wellington.250 | Wellington.250 | Wellington.250 | Wellington.250 | Wellington.250 | Wellington.250 | Wellington.250 | Wellington.250 | Wellington.250 | Wellington.250 | Wellington.250 |",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:41:44.258767"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi!\n\nI really have an opinion of what you should be doing when you're doing this, and you will probably start out as a better player.\nIt definitely makes a difference to you and your team because it's awesome.\nIt's not",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:44:08.468272"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Olá!”",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:48:08.183407"
+    },
+    {
+        "user": "Wellington",
+        "text": "tudo bem?",
+        "response": "Tudo blzr, uhhf,",
+        "intent": "greeting -> informal_with_well_being",
+        "timestamp": "2025-01-07T17:48:15.710695"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi! I've always been a bit overwhelmed",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:49:18.934589"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Saudações!",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:54:02.907616"
+    },
+    {
+        "user": "Wellington",
+        "text": "tudo bem?",
+        "response": "Tudo sussa.",
+        "intent": "greeting -> informal_with_well_being",
+        "timestamp": "2025-01-07T17:54:24.286941"
+    },
+    {
+        "user": "Wellington",
+        "text": "conta uma piada",
+        "response": "Desculpe, não entendi o que você quis dizer.",
+        "intent": null,
+        "timestamp": "2025-01-07T17:54:49.107660"
+    },
+    {
+        "user": "Wellington",
+        "text": "oi",
+        "response": "Olá!\nI had no idea what was",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T17:55:10.680852"
+    },
+    {
+        "user": "Carlos",
+        "text": "Oi, tudo bem?",
+        "response": "Estou bem, obrigada.",
+        "intent": "greeting -> formal_with_well_being",
+        "timestamp": "2025-01-07T18:09:01.681511"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T18:17:52.656338"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi, Wellington.1.",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T18:24:16.580206"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Saudações!\n\nThis is not a good",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T18:28:21.038784"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi!",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T18:29:09.337314"
+    },
+    {
+        "user": "Wellington",
+        "text": "tudo bom?",
+        "response": "Tudo bem, Wellington3) you will never forget",
+        "intent": "greeting -> informal_with_well_being",
+        "timestamp": "2025-01-07T18:29:15.301313"
+    },
+    {
+        "user": "Wellington",
+        "text": "ola",
+        "response": "Oi, Wellington.\n\nThe first thing I noticed",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-01-07T18:30:04.158168"
+    },
+    {
+        "user": "Wellington",
+        "text": "Bom dia, Helena, como vai?",
+        "response": "Estou ótima, e você?\n\nótima ótima, e você?",
+        "intent": "greeting -> morning_with_ask",
+        "timestamp": "2025-01-07T18:30:30.844284"
+    },
+    {
+        "user": "Wellington",
+        "text": "Bom dia, Helena, como vai?",
+        "response": "Aqui está o que eu encontrei para você: Estou bem, obrigada.\n\n\nPamela was born on December 16, 1869 in the",
+        "intent": "greeting -> morning_with_ask",
+        "timestamp": "2025-01-07T18:33:39.352817"
+    },
+    {
+        "user": "Wellington",
+        "text": "Bom dia, Helena, como vai?",
+        "response": "Muito bem, obrigada por perguntar.\n\nVirgo por que mais o queso muy",
+        "intent": "greeting -> morning_with_ask",
+        "timestamp": "2025-01-07T18:34:39.248677"
+    },
+    {
+        "user": "Wellington",
+        "text": "Bom dia, Helena, como vai?",
+        "response": "Muito bem, obrigada por perguntar.\n\nFidelas, p. 15.\n\nFidelas",
+        "intent": "greeting -> morning_with_ask",
+        "timestamp": "2025-01-07T18:35:30.217791"
+    },
+    {
+        "user": "Wellington",
+        "text": "Bom dia, Helena, como vai?",
+        "response": "Estou ótima, e você?\n\nEtê ótima, e você?",
+        "intent": "greeting -> morning_with_ask",
+        "timestamp": "2025-01-07T18:37:55.393141"
+    },
+    {
+        "user": "Wellington",
+        "text": "Bom dia, Helena, como vai?",
+        "response": "Muito bem, obrigada por perguntar.",
+        "intent": "greeting -> morning_with_ask",
+        "timestamp": "2025-01-07T18:38:53.999492"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Olá, tudo bem?",
+        "intent": "greeting -> formal",
+        "timestamp": "2025-02-12T18:10:41.863150"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Desculpe, não entendi o que você quis dizer.",
+        "intent": null,
+        "timestamp": "2025-02-12T19:03:49.247599"
+    },
+    {
+        "user": "Wellington",
+        "text": "bom dia",
+        "response": "Bom dia!",
+        "intent": "morning",
+        "timestamp": "2025-02-12T19:04:02.302650"
+    },
+    {
+        "user": "Wellington",
+        "text": "olá",
+        "response": "Desculpe, não entendi o que você quis dizer.",
+        "intent": null,
+        "timestamp": "2025-02-12T19:31:12.800103"
+    },
+    {
+        "user": "Wellington",
+        "text": "bom dia",
+        "response": "Bom dia #!",
+        "intent": "morning",
+        "timestamp": "2025-02-12T19:31:27.057891"
+    },
+    {
+        "user": "Wellington",
+        "text": "bom dia",
+        "response": "Bom dia, tudo bem?",
+        "intent": "morning",
+        "timestamp": "2025-02-12T19:36:37.359555"
+    }
+]
